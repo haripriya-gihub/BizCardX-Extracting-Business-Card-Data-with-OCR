@@ -24,3 +24,7 @@ os.environ["KMP_DUPLICATE_LIB_OK"]  =  "TRUE"
 
 
 3.create sqlite database connection
+
+linkedin video link
+
+https://www.linkedin.com/posts/hari-priya-b70170222_bizcardx-data-extraction-activity-7055601002548264960-UjuT?utm_source=share&utm_medium=member_desktop
